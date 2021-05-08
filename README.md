@@ -2,11 +2,11 @@ _Dasmoto's Arts & Craft_
 
 A basic arts & crafts webpage.
 
-#Table of contents:
+# Table of contents:
 
-*General info
+* General info
 
-*Technologies
+* Technologies
 
 
 **General info**
@@ -15,8 +15,8 @@ The purpose of this project is to use my knowledgeof basic HTML and CSS to build
 
 **Technologies Used:**
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-Git and Github
+* Git and Github
