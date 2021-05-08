@@ -1,8 +1,8 @@
-_Dasmoto's Arts & Craft_
+# _Dasmoto's Arts & Craft_
 
 A basic arts & crafts webpage.
 
-# Table of contents:
+## Table of contents:
 
 * General info
 
